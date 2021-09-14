@@ -23,4 +23,8 @@
     <a href = "https://github.com/Christian-M-Silva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/christian-silva-83172621a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "https://www.facebook.com/profile.php?id=100069280030811"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> 
- <div/>
+ </div>
+    
+ <div>
+   ![Snake animation](https://github.com/Christian-M-Silva/Christian-M-Silva/blob/output/github-contribution-grid-snake.svg)
+ </div>
