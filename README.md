@@ -1,7 +1,7 @@
 ###  I´m Christian 🦇🤵
 
 - 🌱 I'm currently studying at recode
-- 🤓 I love studying and learning
+- 🤓 I love studying, learning and code
 - 🎮 I like games, movies, series and comics
 
 <div>
