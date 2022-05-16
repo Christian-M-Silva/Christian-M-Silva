@@ -59,3 +59,18 @@
 ### <img height="20" src="https://user-images.githubusercontent.com/80538257/168589123-94865006-63dc-4f42-844f-8062765938d9.png"/> Preview Card
  - Repository: https://github.com/Christian-M-Silva/Preview-card
  - Link: https://christian-m-silva.github.io/Preview-card/
+
+## ⚙️ GitHub Analytics
+<div style="display: inline">
+ <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Christian-M-Silva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Christian stats"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-M-Silva&layout=compact&langs_count=7&theme=github_dark" alt="Christian most languages"/>
+</div>
+
+## 📱 Social
+<div style="display: inline">
+    <a href="https://www.instagram.com/apredizti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "https://github.com/Christian-M-Silva"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/christian-silva-83172621a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+ ![Snake animation](https://github.com/Christian-M-Silva/Christian-M-Silva/blob/output/github-contribution-grid-snake.svg)
