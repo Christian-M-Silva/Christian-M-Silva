@@ -40,8 +40,22 @@
 
 ## 🏗 Main projects
 
-- 
+### 🖱 Cursor Personalizado
+ - Repository: https://github.com/Christian-M-Silva/cursor-personalizado
+ - Link: https://christian-m-silva.github.io/cursor-personalizado/
 
+### 🐦 Andor
+ - Repository: https://github.com/squad46/ANDOR-4.0
+ - Video: https://www.youtube.com/watch?v=la5MvGHnwB4
 
+### <img height="20" src="https://user-images.githubusercontent.com/80538257/168588194-0925043a-b804-48b2-8f1c-f7ebbe621624.png"/> Preparo da Lasanha 
+ - Repository: https://github.com/Christian-M-Silva/Preparo-da-lasanha
+ - Link: https://christian-m-silva.github.io/Preparo-da-lasanha/
 
+### 😁 BestMeApp
+ - Repository: https://github.com/Christian-M-Silva/BestMeApp
+ - Video: https://www.youtube.com/watch?v=E7XVrcehiF0
 
+### <img height="20" src="https://user-images.githubusercontent.com/80538257/168589123-94865006-63dc-4f42-844f-8062765938d9.png"/> Preview Card
+ - Repository: https://github.com/Christian-M-Silva/Preview-card
+ - Link: https://christian-m-silva.github.io/Preview-card/
