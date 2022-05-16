@@ -62,8 +62,8 @@
 
 ## ⚙️ GitHub Analytics
 <div style="display: inline">
- <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Christian-M-Silva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Christian stats"/>
- <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-M-Silva&layout=compact&langs_count=7&theme=github_dark" alt="Christian most languages"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Christian-M-Silva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Christian stats"/>
+ <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-M-Silva&layout=compact&langs_count=7&theme=github_dark" alt="Christian most languages"/>
 </div>
 
 ## 📱 Social
