@@ -62,7 +62,6 @@
 
 ## ⚙️ GitHub Analytics
 <div style="display: inline">
- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Christian-M-Silva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/> 
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Christian-M-Silva&layout=compact&langs_count=7&theme=github_dark" alt="Christian most languages"/>
 </div>
 
@@ -73,5 +72,3 @@
     <a href="https://www.linkedin.com/in/christian-silva-83172621a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="mailto:christianmoraissilvacms@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
- 
- ![Snake animation](https://github.com/Christian-M-Silva/Christian-M-Silva/blob/output/github-contribution-grid-snake.svg)
