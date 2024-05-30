@@ -4,13 +4,11 @@
 
 ## 🤔 Trivia about me
 
-- I'm a Junior Front-end developer
-- I chose to start as a front-end developer because I like design and delivering a great user experience
-- My goal is to become a respected senior developer and be able to help even more junior devs who are just starting out.
-- I am currently studying on Rocketseat's Discover trail
-- I recently finished a full-stack formation at Recode
--	I'm from Rio de Janeiro - Brazil
-- I like to play video games, football and volleyball, watch movies and series, study, read comics, listen to music and ride a bike
+- I love developing
+- My goal is to become a world-renowned developer.
+- I am currently developing systems for companies and people, while advancing knowledge.
+- I have already completed a full stack training
+- I like playing video games, football and volleyball, watching movies and series, studying, reading comics, listening to music and riding a bike, a true geek 🤓
 
 ## 🛠 Tech stacks
 
